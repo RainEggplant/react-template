@@ -1,0 +1,27 @@
+# Node.js with React (TypeScript)
+# Build a Node.js project that uses React (TypeScript).
+# Add steps that analyze code, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
+
+# Set variables once
+variables:
+  CI: true
+
+trigger:
+  - master
+
+pr:
+  - master
+  - releases/*
+
+pool:
+  vmImage: "ubuntu-latest"
+
+steps:
+  - script: |
+      yarn install
+      yarn build
+    displayName: "yarn install and build"
+
+  - script: yarn test
+    displayName: "yarn test"
