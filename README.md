@@ -1,3 +1,6 @@
+[![Build Status](https://raineggplant.visualstudio.com/react-template/_apis/build/status/RainEggplant.react-template?branchName=master)](https://raineggplant.visualstudio.com/react-template/_build/latest?definitionId=3&branchName=master)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/01b94635-f67c-41c5-8ffc-094e9c08559e/deploy-status)](https://app.netlify.com/sites/tender-brahmagupta-e1a5c4/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
