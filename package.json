@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.23.5",
-    "react": "^16.9.0",
+    "react": "^16.10.1",
     "react-dom": "^16.10.1"
   },
   "devDependencies": {
