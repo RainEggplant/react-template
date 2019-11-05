@@ -17,7 +17,7 @@
     "prettier": "1.18.2",
     "react-app-rewired": "^2.1.4",
     "react-scripts": "3.2.0",
-    "tslint": "5.20.0",
+    "tslint": "5.20.1",
     "typescript": "3.7.2"
   },
   "scripts": {
