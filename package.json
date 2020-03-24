@@ -16,7 +16,7 @@
     "customize-cra": "^0.9.1",
     "prettier": "2.0.2",
     "react-app-rewired": "^2.1.5",
-    "react-scripts": "3.4.0",
+    "react-scripts": "3.4.1",
     "tslint": "6.1.0",
     "typescript": "3.8.3"
   },
