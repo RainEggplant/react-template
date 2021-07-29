@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@types/jest": "26.0.24",
-    "@types/node": "16.4.6",
+    "@types/node": "16.4.7",
     "@types/react": "17.0.15",
     "@types/react-dom": "17.0.9",
     "babel-plugin-import": "^1.13.3",
